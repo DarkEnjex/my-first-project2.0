@@ -1,0 +1,33 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    background-color: black;
+    line-height: 1.5;
+    margin: 0;
+    color: white;
+}
+
+.title {
+    display: inline;
+    border: 5px double #0096FF;
+    color: #FFD700;
+}
+
+.title:hover {
+    border-color: #353935;
+}
+
+.title-span {
+    color: #FF2400;
+}
+
+.title-text {
+    margin: 10px 10px;
+
+}
