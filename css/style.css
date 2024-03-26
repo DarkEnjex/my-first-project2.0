@@ -7,10 +7,10 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
-    background-color: black;
+    background-color: white;
     line-height: 1.5;
     margin: 0;
-    color: white;
+    color: black;
 }
 
 .title {
